@@ -25,3 +25,10 @@ Tecnologias Utilizadas
 O projeto foi desenvolvido em Python utilizando o ambiente Jupyter Notebook.
 
 As bibliotecas principais foram Pandas, Seaborn, Matplotlib, Statsmodels e Patsy.
+
+Conclusões
+A transformação logarítmica da variável resposta (renda) mostrou-se essencial para corrigir a heterocedasticidade.
+
+O tempo de emprego e o sexo foram os fatores com maior impacto estatístico na previsão do rendimento final.
+
+O modelo final permite uma compreensão clara de como cada característica socioeconômica contribui percentualmente para a renda.
